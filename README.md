@@ -1,7 +1,7 @@
 # Car_Price_Prediction
-  Data Science project for Predicting the Price of a car using Linear Regression
-  Цель: Обучить линейную регрессию для предсказания стоимости автомобиля
-  Датасет: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
+Data Science project for Predicting the Price of a car using Linear Regression
+Цель: Обучить линейную регрессию для предсказания стоимости автомобиля
+Датасет: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 1) Проведение первичного анализа данных
 2) Проведение визуального анализа данных
 3) Разбиение данных на обучение и тест
